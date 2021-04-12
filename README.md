@@ -1,6 +1,6 @@
 # ToDo
 
-  A website that allows you to add update and delete tasks.
+  A website that allows you to add, update and delete tasks.
   
   
 # Technologies Used:
